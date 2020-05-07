@@ -1,0 +1,16 @@
+---- access_send Matches (0 in 0 files) ----
+---- TEST_CPU_CLOCK Matches (1 in 0 files) ----
+Board.h (d:\sun\mesh_light_pro\mesh_color_pro\board\evb\mesh_ali_light):#define TEST_CPU_CLOCK  40// MHz
+---- ais_server_timer_start Matches (2 in 0 files) ----
+Ais_server.c (d:\sun\mesh_light_pro\mesh_color_pro\src\app\mesh\lib\profile):void ais_server_timer_start(void)
+Ais_server.c (d:\sun\mesh_light_pro\mesh_color_pro\src\app\mesh\lib\profile):    ais_server_timer_start();
+---- ais_server_add Matches (2 in 0 files) ----
+Ais_server.c (d:\sun\mesh_light_pro\mesh_color_pro\src\app\mesh\lib\profile):uint8_t ais_server_add(void *pcb)
+Ais_server.c (d:\sun\mesh_light_pro\mesh_color_pro\src\app\mesh\lib\profile):        printe("ais_server_add: server_id = %d", server_id);
+---- beacon Matches (0 in 0 files) ----
+---- light_prov_start Matches (1 in 0 files) ----
+Light_effect_app.c (d:\sun\mesh_light_pro\mesh_color_pro\src\app\mesh\lib\common):void light_prov_start(void)
+---- prov_cb Matches (3 in 0 files) ----
+Light_effect_app.c (d:\sun\mesh_light_pro\mesh_color_pro\src\app\mesh\lib\common):void light_prov_unprov_cb(light_t *light)
+Light_effect_app.c (d:\sun\mesh_light_pro\mesh_color_pro\src\app\mesh\lib\common):            light_blink(light, 0, light->lightness, 1000, 50, 5, light_prov_unprov_cb);
+Light_effect_app.c (d:\sun\mesh_light_pro\mesh_color_pro\src\app\mesh\lib\common):        light_blink(light, 0, light->lightness, 1000, 50, 5, light_prov_unprov_cb);

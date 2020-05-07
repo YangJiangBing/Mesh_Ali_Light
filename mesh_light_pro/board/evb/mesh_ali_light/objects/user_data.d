@@ -1,0 +1,13 @@
+.\objects\user_data.o: ..\..\..\src\app\mesh\ali_light\user_data.c
+.\objects\user_data.o: ..\..\..\src\app\mesh\ali_light\app_flags.h
+.\objects\user_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\user_data.o: ..\..\..\src\app\mesh\ali_light\user_data.h
+.\objects\user_data.o: ..\..\..\src\app\mesh\lib\platform\platform_types.h
+.\objects\user_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\user_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\user_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\user_data.o: ..\..\..\src\app\mesh\lib\platform\platform_macros.h
+.\objects\user_data.o: ..\mesh_ali_light\flash_map.h
+.\objects\user_data.o: ..\..\..\inc\platform\flash_device.h
+.\objects\user_data.o: ..\..\..\src\app\mesh\lib\platform\platform_diagnose.h
+.\objects\user_data.o: ..\..\..\inc\platform\trace.h

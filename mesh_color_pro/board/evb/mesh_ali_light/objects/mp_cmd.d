@@ -1,0 +1,14 @@
+.\objects\mp_cmd.o: ..\..\..\src\app\mesh\ali_light\mp_cmd.c
+.\objects\mp_cmd.o: ..\..\..\src\app\mesh\ali_light\app_flags.h
+.\objects\mp_cmd.o: ..\..\..\src\app\mesh\ali_light\mp_cmd.h
+.\objects\mp_cmd.o: ..\..\..\src\app\mesh\lib\common\mp_cmd_parse.h
+.\objects\mp_cmd.o: ..\..\..\src\app\mesh\lib\platform\platform_types.h
+.\objects\mp_cmd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mp_cmd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\mp_cmd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\mp_cmd.o: ..\..\..\src\app\mesh\lib\platform\platform_macros.h
+.\objects\mp_cmd.o: ..\..\..\inc\platform\rtl876x_lib_platform.h
+.\objects\mp_cmd.o: ..\..\..\src\app\mesh\ali_light\user_data.h
+.\objects\mp_cmd.o: ..\mesh_ali_light\flash_map.h
+.\objects\mp_cmd.o: ..\..\..\src\app\mesh\lib\platform\platform_diagnose.h
+.\objects\mp_cmd.o: ..\..\..\inc\platform\trace.h

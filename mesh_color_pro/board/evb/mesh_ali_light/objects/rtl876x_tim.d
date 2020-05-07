@@ -1,0 +1,14 @@
+.\objects\rtl876x_tim.o: ..\..\..\src\mcu\peripheral\rtl876x_tim.c
+.\objects\rtl876x_tim.o: ..\..\..\src\app\mesh\ali_light\app_flags.h
+.\objects\rtl876x_tim.o: ..\..\..\inc\peripheral\rtl876x_tim.h
+.\objects\rtl876x_tim.o: ..\..\..\inc\platform\rtl876x.h
+.\objects\rtl876x_tim.o: ..\..\..\inc\platform\cmsis\core_cm4.h
+.\objects\rtl876x_tim.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\rtl876x_tim.o: ..\..\..\inc\platform\cmsis\core_cmInstr.h
+.\objects\rtl876x_tim.o: ..\..\..\inc\platform\cmsis\core_cmFunc.h
+.\objects\rtl876x_tim.o: ..\..\..\inc\platform\cmsis\core_cmSimd.h
+.\objects\rtl876x_tim.o: ..\..\..\inc\platform\system_rtl876x.h
+.\objects\rtl876x_tim.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\rtl876x_tim.o: ..\..\..\inc\peripheral\rtl876x_bitfields.h
+.\objects\rtl876x_tim.o: ..\..\..\inc\platform\cmsis\core_cm4.h
+.\objects\rtl876x_tim.o: ..\..\..\inc\peripheral\rtl876x_rcc.h
